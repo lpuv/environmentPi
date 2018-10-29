@@ -13,3 +13,8 @@ https://www.switchdoc.com/2016/06/air-quality-sensor-tested-raspberry-pi/
 https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-bme680-breakout
 
 http://www.open-bigdata.com/arduino-raspberry-air-quality-iot/
+Probably this one ^ ^
+                  | |
+
+https://www.hackster.io/altitude-tech/sensly-hat-for-raspberry-pi-air-quality-gas-detector-723aa2
+
