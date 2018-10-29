@@ -18,3 +18,10 @@ Probably this one ^ ^
 
 https://www.hackster.io/altitude-tech/sensly-hat-for-raspberry-pi-air-quality-gas-detector-723aa2
 
+http://airpi.es
+
+https://www.kickstarter.com/projects/nanomesher/ready-to-run-iot-weather-and-multimedia-kit-for-ra
+
+https://projects.raspberrypi.org/en/projects/build-your-own-weather-station/4
+
+https://opensource.com/article/18/3/how-measure-particulate-matter-raspberry-pi
