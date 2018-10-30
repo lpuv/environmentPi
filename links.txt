@@ -27,3 +27,5 @@ https://projects.raspberrypi.org/en/projects/build-your-own-weather-station/4
 https://opensource.com/article/18/3/how-measure-particulate-matter-raspberry-pi
 
 https://electronicshobbyists.com/raspberry-pi-sending-data-to-thingspeak-simplest-raspberry-pi-iot-project/
+
+https://electronicshobbyists.com/temperature-and-humidity-sensor-dht22-raspberry-pi-interfacing/
