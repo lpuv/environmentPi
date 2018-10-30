@@ -25,3 +25,5 @@ https://www.kickstarter.com/projects/nanomesher/ready-to-run-iot-weather-and-mul
 https://projects.raspberrypi.org/en/projects/build-your-own-weather-station/4
 
 https://opensource.com/article/18/3/how-measure-particulate-matter-raspberry-pi
+
+https://electronicshobbyists.com/raspberry-pi-sending-data-to-thingspeak-simplest-raspberry-pi-iot-project/
